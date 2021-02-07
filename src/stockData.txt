@@ -1,0 +1,6 @@
+your stock is:
+[GalaxyS20 , Stock = 5 Price = 3000
+, GalaxyS20 Plus,  Stock = 5 Price = 3500
+, Note 20  Stock = 5 Price = 4000
+, Note 20 Plus  Stock = 5 Price = 4500
+]
